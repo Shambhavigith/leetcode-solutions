@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Shambhavigith/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/Shambhavigith/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Shambhavigith/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shambhavigith/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Shambhavigith/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shambhavigith/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shambhavigith/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
